@@ -1,7 +1,0 @@
-{
-    "TYPE": "FILE",
-    "METHOD": "RAINBOW",
-    "BRUTE_FORCE_LENGTH": 5,
-    "DICTIONARY": "C:\\Users\\gensw\\OneDrive\\Documents\\GitHub\\PASSWORD_CRACKER\\Passwords.txt",
-    "FILE_PATH": "C:\\Users\\gensw\\OneDrive\\Documents\\GitHub\\PASSWORD_CRACKER\\Example (Rainbow Method).zip"
-}
