@@ -13,7 +13,7 @@ Available options when editing Settings.json
   "FILE_PATH": "Full Path"
 }
 ```
-/h
+
 The passwords for the two example files:
 | File Name                 | Passwords |
 |---------------------------|-----------|
