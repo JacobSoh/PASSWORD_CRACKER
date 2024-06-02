@@ -11,7 +11,7 @@ def __remove_folder(dir = ""):
                 __remove_folder(fPath)
         os.rmdir(dir)
     except OSError as ose:
-        print(f"Error occured at functions.py at line {e}")
+        print(f"Error occured at functions.py at line {ose}")
     except Exception as e:
         print(f"Error occured at functions.py at line {e}")
 

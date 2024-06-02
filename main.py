@@ -2,6 +2,7 @@ import sys
 from Package import cracker
 
 def main():
+    # Class PWD_Cracker is stored under Package 
     pwdCrackerCls = cracker.PWD_Cracker(threads=4)
     pwdCrackerCls.begin()
     pwdCrackerCls.main()
