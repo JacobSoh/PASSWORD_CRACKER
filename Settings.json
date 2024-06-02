@@ -1,0 +1,7 @@
+{
+    "TYPE": "FILE",
+    "METHOD": "BRUTE_FORCE",
+    "BRUTE_FORCE_LENGTH": 3,
+    "DICTIONARY": "path to your password dictionary",
+    "FILE_PATH": "path to your locked file"
+}
